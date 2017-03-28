@@ -38,6 +38,10 @@ abbr,acronym { border: 0;
     font-family: GothamRoundedLight;
     src: url(../fonts/GothamRoundedLight.ttf);
 }
+@font-face {
+    font-family: GothamRoundedBook;
+    src: url(../fonts/GothamRoundedBook.ttf);
+}
 
 body{
     height:3545px;
@@ -141,4 +145,68 @@ nav{
     top:699px;
 }
 
+.second{
+     background:url(../images/second.jpg);
+     height:494px;
+     overflow: hidden;
+    position: relative;
+ }
+
+.presentLife, .textForPresentLife, .buttonForPresentLife, .iphone2{
+    position: absolute;
+    left: 128px;
+}
+.presentLife{
+    top:113px;
+    font-family: "GothamRoundedBold";
+    color: #16a085;
+    letter-spacing: 3px;
+    font-size: 14pt;
+    width:383px;
+}
+.textForPresentLife{
+    top:197px;
+    width: 400px;
+    font-family: "Gotham Rounded Book";
+    letter-spacing: 1px;
+    color: #373737;
+}
+
+.buttonForPresentLife{
+    border-radius: 5px;
+    border: 0px;
+    font-family: "GothamRoundedBold";
+    background-color: #16a085;
+    height:50px;
+    width:166px;
+    top: 351px;
+    color: #ffffff;
+}
+.iphone2{
+    left:511px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.third{
+    background:url(../images/third.jpg);
+    height:558px;
+    overflow: hidden;
+}
 
