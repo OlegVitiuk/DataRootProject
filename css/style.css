@@ -34,6 +34,10 @@ abbr,acronym { border: 0;
     font-family: GothamRoundedBold;
     src: url(../fonts/GothamRoundedBold.ttf);
 }
+@font-face {
+    font-family: GothamRoundedLight;
+    src: url(../fonts/GothamRoundedLight.ttf);
+}
 
 body{
     height:3545px;
@@ -48,7 +52,6 @@ ul {
     list-style: none; /*убираем маркеры списка*/
     margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
     padding-left: 0; /*убираем левый отступ, равный 40px*/
-    /*margin-left: 273px;*/
 
 }
 li {
@@ -87,3 +90,55 @@ nav{
 .download{
     left:913px;
 }
+.mainSign{
+    font-family: "GothamRoundedBold";
+    color:#ffffff;
+    height:300px;
+}
+.yourLife{
+    font-size: 26pt;
+    font-weight: bold;
+    letter-spacing: 6px;
+    position: absolute;
+    left: 390px;
+    top: 336px;
+}
+.printLife{
+    font-family: "GothamRoundedLight";
+    font-size: 11.5pt;
+    position: absolute;
+    letter-spacing: 3px;
+    top:385px;
+    left: 474px;
+}
+.getStarted{
+    position: absolute;
+    font-family: "GothamRoundedLight";
+    color:#ffffff;
+    left:558px;
+    top:428px;
+    background-color: #16a085;
+    height:50px;
+    width:166px;
+    border-radius: 5px;
+    border: 0px;
+    letter-spacing: 2px;
+    font-size: 9pt;
+}
+.dribble{
+    position: absolute;
+    left: 669px;
+    top:699px;
+}
+.flickr{
+    position: absolute;
+    left: 630px;
+    top:699px;
+}
+.twitter{
+    position: absolute;
+    left: 591px;
+    top:699px;
+}
+
+
