@@ -351,6 +351,42 @@ nav{
     overflow: hidden;
     position: relative;
 }
+.text6, .title6, .appleStore6, .playStore6{
+    position: absolute;
+}
+.title6{
+    left:547px;
+    top:86px;
+    color: #373737;
+    font-size: 15pt;
+    letter-spacing: 3px;
+    font-family: "GothamRoundedBold";
+}
+.text6{
+    left:215px;
+    top:117px;
+    width:850px;
+    line-height: 1.8;
+    font-size: 9pt;
+    letter-spacing: 1.8px;
+    font-family: "Gotham Rounded Medium";
+    text-align: center;
+}
+.appleStore6{
+    left:485px;
+    top:224px;
+    width:240px;
+    heigth:100px;
+}
+
+.playStore6{
+    left:807px;
+    top:224px;
+    width:240px;
+    heigth:100px;
+}
+
+
 
 
 
