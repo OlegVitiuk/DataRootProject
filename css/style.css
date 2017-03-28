@@ -299,6 +299,58 @@ nav{
     left: 1140px;
     top:95px;
 }
+.fifth{
+    background:url(../images/fifth.png);
+    height:790px;
+    overflow: hidden;
+    position: relative;
+}
+.title5, .inputGroup5{
+    position: absolute;
+}
+.title5{
+    left:402px;
+    top:346px;
+    color: #ffffff;
+    font-size: 18.7pt;
+    letter-spacing: 3px;
+    font-family: "GothamRoundedBold";
+}
+.inputGroup5{
+    width:360px;
+    height:100px;
+    left: 467px;
+    top:404px;
+    position: relative;
+}
+.input5{
+    height:60px;
+    width:280px;
+    position: absolute;
+    border:0;
+    border-radius: 6px 0 0 6px;
+}
+.input5::-webkit-input-placeholder {
+    font-family: "Gotham Rounded Medium";
+    font-size: 12pt;
+    color: #373737;
+    letter-spacing: 2px;
+    padding-left:23px;
+}
+.button5{
+    height:60px;
+    width:63px;
+    background-color: #16a085;
+    position: absolute;
+    left:280px;
+    border-radius: 0 6px 6px 0;
+}
+.sixth{
+    background:url(../images/sixth.png);
+    height:396px;
+    overflow: hidden;
+    position: relative;
+}
 
 
 
