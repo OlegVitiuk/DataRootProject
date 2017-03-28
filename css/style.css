@@ -109,8 +109,8 @@ nav{
     font-weight: bold;
     letter-spacing: 6px;
     position: absolute;
-    left: 390px;
-    top: 336px;
+    left: 392px;
+    top: 334px;
 }
 .printLife{
     font-family: "GothamRoundedLight";
@@ -165,7 +165,7 @@ nav{
     top:109px;
     font-family: "GothamRoundedBold";
     color: #16a085;
-    letter-spacing: 2px;
+    letter-spacing: 2.2px;
     font-size: 14pt;
     width:400px;
 }
@@ -173,10 +173,10 @@ nav{
     top:191px;
     width: 440px;
     font-family: "Gotham Rounded Book";
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     color: #373737;
-    line-height: 1.5;
-    font-size: 12pt;
+    line-height: 1.6;
+    font-size: 11pt;
 }
 
 .buttonForPresentLife{
@@ -293,7 +293,7 @@ nav{
     font-size: 7pt;
     color: #373737;
     letter-spacing: 2px;
-    line-height: 1.5;
+    line-height: 1.4;
     text-align: center;
 }
 .angle4left{
@@ -349,6 +349,7 @@ nav{
     position: absolute;
     left:280px;
     border-radius: 0 6px 6px 0;
+    border: 0;
 }
 .sixth{
     background:url(../images/sixth.png);
