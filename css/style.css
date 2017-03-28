@@ -447,11 +447,11 @@ footer{
 .footerList{
     position: absolute;
     left:126px;
-    top:44px;
+    top:42px;
     font-family: "GothamRoundedBold";
     font-size: 10pt;
     color: #373737;
-    letter-spacing: 3px;
+    letter-spacing: 2.5px;
 }
 .footerCamera{
     position: absolute;
@@ -466,6 +466,9 @@ footer{
     font-size: 10pt;
     color: #373737;
     letter-spacing: 2.5px;
+}
+.vLine{
+    color: #16a085;
 }
 
 
