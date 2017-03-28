@@ -363,6 +363,13 @@ nav{
     letter-spacing: 2px;
     padding-left:23px;
 }
+.input5::-moz-placeholder {
+    font-family: "GothamRoundedMedium";
+    font-size: 12pt;
+    color: #373737;
+    letter-spacing: 2px;
+    padding-left:23px;
+}
 .button5{
     height:60px;
     width:63px;
@@ -416,6 +423,13 @@ nav{
 }
 
 .input6Apple::-webkit-input-placeholder {
+      font-family: "GothamRoundedBold";
+      font-size: 12pt;
+      color: #ffffff;
+      letter-spacing: 2px;
+      padding-left:26px;
+  }
+.input6Apple::-moz-placeholder {
     font-family: "GothamRoundedBold";
     font-size: 12pt;
     color: #ffffff;
@@ -456,6 +470,13 @@ nav{
     border:0;
 }
 .input6Play::-webkit-input-placeholder {
+    font-family: "GothamRoundedBold";
+    font-size: 13pt;
+    color: #ffffff;
+    letter-spacing: 3px;
+    padding-left: 29px;
+}
+.input6Play:-moz-placeholder {
     font-family: "GothamRoundedBold";
     font-size: 13pt;
     color: #ffffff;
