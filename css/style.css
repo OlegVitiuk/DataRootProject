@@ -290,7 +290,14 @@ nav{
     letter-spacing: 2px;
     line-height: 1.5;
     text-align: center;
-
+}
+.angle4left{
+    left:1113px;
+    top: 95px;
+}
+.angle4right{
+    left: 1140px;
+    top:95px;
 }
 
 
