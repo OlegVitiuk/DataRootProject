@@ -256,6 +256,42 @@ nav{
     overflow: hidden;
     position: relative;
 }
+.fourthCamera, .title4, .text4, .car4, .fall4, .angle4left, .angle4right{
+    position: absolute;
+}
+
+.fourthCamera{
+    top: 163px;
+    left: 187px;
+}
+.car4{
+    left:386px;
+    top:121px;
+}
+.fall4{
+    left:780px;
+    top:121px;
+}
+.title4{
+    left:130px;
+    top:247px;
+    font-family: "GothamRoundedBold";
+    font-size: 12pt;
+    color: #373737;
+    letter-spacing: 2px;
+}
+.text4{
+    left: 144px;
+    top:285px;
+    width: 150px;
+    font-family: "Gotham Rounded Medium";
+    font-size: 7pt;
+    color: #373737;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-align: center;
+
+}
 
 
 
