@@ -363,7 +363,7 @@ nav{
     letter-spacing: 2px;
     padding-left:23px;
 }
-.input5::-moz-placeholder {
+.input5:-moz-placeholder {
     font-family: "GothamRoundedMedium";
     font-size: 12pt;
     color: #373737;
@@ -429,7 +429,7 @@ nav{
       letter-spacing: 2px;
       padding-left:26px;
   }
-.input6Apple::-moz-placeholder {
+.input6Apple:-moz-placeholder {
     font-family: "GothamRoundedBold";
     font-size: 12pt;
     color: #ffffff;
