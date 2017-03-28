@@ -60,11 +60,11 @@ ul {
 }
 li {
     display: inline-block;
-    color:#ffffff;
-    font-size:11pt;
-    font-family: "GothamRoundedBold";
-    font-weight: bold;
-    letter-spacing: 3px;
+    /*color:#ffffff;*/
+    /*font-size:11pt;*/
+    /*font-family: "GothamRoundedBold";*/
+    /*font-weight: bold;*/
+    /*letter-spacing: 3px;*/
 }
 
 nav{
@@ -76,6 +76,11 @@ nav{
 .photoapp, .home, .design, .download{
     position: absolute;
     top:71px;
+    color:#ffffff;
+    font-size:11pt;
+    font-family: "GothamRoundedBold";
+    font-weight: bold;
+    letter-spacing: 3px;
 }
 .photoapp{
     left:396px;
@@ -433,9 +438,35 @@ nav{
     font-size: 13pt;
     color: #ffffff;
     letter-spacing: 3px;
-    padding-left:29px;
+    padding-left: 29px;
 }
-
+footer{
+    position: relative;
+    height: 132px;
+}
+.footerList{
+    position: absolute;
+    left:126px;
+    top:44px;
+    font-family: "GothamRoundedBold";
+    font-size: 10pt;
+    color: #373737;
+    letter-spacing: 3px;
+}
+.footerCamera{
+    position: absolute;
+    left:1095px;
+    top: 35px;
+}
+.copyright{
+    top: 77px;
+    position: absolute;
+    left:125px;
+    font-family: "GothamRoundedBold";
+    font-size: 10pt;
+    color: #373737;
+    letter-spacing: 2.5px;
+}
 
 
 
