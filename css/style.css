@@ -184,29 +184,65 @@ nav{
 }
 .iphone2{
     left:511px;
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .third{
     background:url(../images/third.jpg);
     height:558px;
     overflow: hidden;
+    position: relative;
 }
+.thirdDesign, .buttonForDesign, .textForDesign, .thirdDate, .thirdAngles , .leftAngle, .rightAngle{
+    left:767px;
+    position: absolute;
+}
+.thirdDesign{
+    font-family: "GothamRoundedBold";
+    color: #16a085;
+    letter-spacing: 3px;
+    font-size: 14pt;
+    top: 150px;
+}
+.textForDesign{
+    top:204px;
+    width:403px;
+    font-family: "Gotham Rounded Book";
+    letter-spacing: 1px;
+    color: #373737;
+}
+.buttonForDesign{
+    border: 0px;
+    font-family: "GothamRoundedBold";
+    background-color: #16a085;
+    color: #ffffff;
+    top:345px;
+}
+.iphone3{
+    position: absolute;
+    left: 136px;
+    top: 157px;
+}
+.thirdDate{
+    top: 441px;
+    left: 767px;
+}
+
+.leftAngle{
+    top:460px;
+    left:767px;
+}
+.rightAngle{
+    top:460px;
+    left: 799px;
+}
+
+.fourth{
+    background:url(../images/fourth.png);
+    height:483px;
+    overflow: hidden;
+    position: relative;
+}
+
+
+
+
 
