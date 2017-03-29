@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f2ebb52-df7c-4ff8-b13c-1ef48ddf5daf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9f2ebb52-df7c-4ff8-b13c-1ef48ddf5daf" name="Default" comment="" />
     <ignored path="landing.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -37,7 +35,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="2235">
               <caret line="190" column="37" selection-start-line="190" selection-start-column="37" selection-end-line="190" selection-end-column="37" />
               <folding>
                 <element signature="e#114#148#0" expanded="false" />
@@ -226,15 +224,15 @@
       <workItem from="1490604199844" duration="40237000" />
       <workItem from="1490735004366" duration="1112000" />
       <workItem from="1490736145317" duration="6494000" />
-      <workItem from="1490776210331" duration="443000" />
+      <workItem from="1490776210331" duration="1040000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61402000" />
+    <option name="totallyTimeSpent" value="61999000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20204978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -457,7 +455,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="2235">
           <caret line="190" column="37" selection-start-line="190" selection-start-column="37" selection-end-line="190" selection-end-column="37" />
           <folding>
             <element signature="e#114#148#0" expanded="false" />
